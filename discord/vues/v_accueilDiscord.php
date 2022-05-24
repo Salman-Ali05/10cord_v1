@@ -1,0 +1,1 @@
+<p>Bonjour <?php echo $username; ?>, ça fait un bail !</p>

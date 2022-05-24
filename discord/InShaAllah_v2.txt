@@ -1,0 +1,4 @@
+to add/update on v2 :
+better design with js or svg
+new functionalities (groups, send gifs, live search of friends, etc. ...)
+clean code
